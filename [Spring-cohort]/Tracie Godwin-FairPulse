@@ -1,1 +1,23 @@
+# FairPulse
+
+Project Scope
+
+FairPulse combines lightweight smart milestone logging with automated invoice tracking. Every milestone, deliverable submission, and invoice timestamp is cryptographically verified to prevent retrospective client disputes and guarantee milestone payouts.
+
+Project Vision & Scope
+
+To build and deploy a dynamic, compliant, and user-centric platform that seamlessly connects Gig Workers with Clients, while ensuring continuous adherence to local and international Regulators.
+
+
+In-Scope:
+Gig Worker Onboarding, Skill Verification and Automated Payouts.
+Client Portal for task posting, real-time tracking and rating.
+Automated Regulatory Compliance & Tax Reporting Layer.
+Real-time matching algorithm and messaging system.
+
+Out-of-Scope:
+
+Full-time employee payroll management.
+On-premise hardware installations.
+
 
